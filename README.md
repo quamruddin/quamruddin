@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quamruddin ahmad
-- 👀 I’m interested in Software testing
-- 🌱 I’m currently learning manual and automating testing
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on any software company
 - 📫 How to reach me ahmadquamruddin999@gmail.com
 
