@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @quamruddin ahmad
-- 👀 I’m interested in Data Analyst
+- 👋 Hi, I’m @quamruddin Ahmad
+- 👀 I’m interested in Data Analyst and Data Sceintist
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on any software company
 - 📫 How to reach me ahmadquamruddin999@gmail.com
